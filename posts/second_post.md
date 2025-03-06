@@ -6,4 +6,6 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Heyy, wassupp
+# Heyy, wassupp 😎
+
+This is a perfect sentence.
