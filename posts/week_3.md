@@ -5,3 +5,7 @@ snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
 ---
+
+# Homework 3
+
+## Homework 3a
