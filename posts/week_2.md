@@ -10,7 +10,7 @@ allow_math: true
 
 ## Cute visuals
 
-![dory](../images/dory.gif)
+[dory](https://www.google.com/url?sa%3Di%26url%3Dhttps%3A%2F%2Fmakeagif.com%2Fgif%2Ffinding-nemo-dory-meets-marlin-4QJPon%26psig%3DAOvVaw0tHlepZXp9IwsEZV7uR60x%26ust%3D1743853833459000%26source%3Dimages%26cd%3Dvfe%26opi%3D89978449%26ved%3D0CBMQjRxqFwoTCMigzfOnvowDFQAAAAAdAAAAABAE)
 
 ![wave](../images/wave.png)
 
