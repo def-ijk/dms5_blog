@@ -10,9 +10,9 @@ allow_math: true
 
 ## Cute visuals
 
-![wave](Users/boo/Documents/creative_coding/dms5_blog/images/wave.png)
+![wave](/images/dory.gif)
 
-![dory](images/dory.gif)
+![dory](/images/wave.png)
 
 One aspect of cuteness that I'm about to utilize is soft color palette. This can create a gentle and dreamy feelings. I’m the one who is really obsessed with the contrast between blue and orange. However, to make it truly cute, I only use them in light tones like light blue and salmon orange, ensuring they don't look too harsh. This could bring a soft, charming and approachable vibe.
 
