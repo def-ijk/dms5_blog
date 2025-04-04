@@ -10,12 +10,6 @@ allow_math: true
 
 ## Cute visuals
 
-![dory](https://i.makeagif.com/media/8-12-2021/4QJPon.gif)
-
-![dory](../images/dory.gif)
-
-![wave](../images/wave.png)
-
 One aspect of cuteness that I'm about to utilize is soft color palette. This can create a gentle and dreamy feelings. I’m the one who is really obsessed with the contrast between blue and orange. However, to make it truly cute, I only use them in light tones like light blue and salmon orange, ensuring they don't look too harsh. This could bring a soft, charming and approachable vibe.
 
 ## Cute sounds
@@ -49,6 +43,8 @@ Currently, I've found that interactivity from the cursor is quite interesting an
   - Our biggest challenge is often ourselves—doubts, fears, and the obstacles life throws at us. But together, we remind each other that we’re stronger than the setbacks, and we keep going no matter what.
 
 ## Explain how your chosen kindred spirit may understand or relate to the visual, sonic, and interactive elements of your AT1 idea. 
+
+![dory](https://i.makeagif.com/media/8-12-2021/4QJPon.gif)
 
 I’ve already created some sketches depicting underwater life. Visually, both subjects are fish, so depicting an underwater scene would be appropriate for this sketch. I’ve also adjusted the wave steps to make the wave look attractive. Tested multiple times to try the height of the wave, wave speed, and spacing to keep the wave crests.
 
