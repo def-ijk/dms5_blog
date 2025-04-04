@@ -10,7 +10,7 @@ allow_math: true
 
 ## Cute visuals
 
-![wave](images/wave.png)
+![wave](/images/images/wave.png)
 
 ![dory](images/dory.gif)
 
