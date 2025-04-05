@@ -44,7 +44,7 @@ Currently, I've found that interactivity from the cursor is quite interesting an
 
 ## Explain how your chosen kindred spirit may understand or relate to the visual, sonic, and interactive elements of your AT1 idea. 
 
-![dory](https://i.makeagif.com/media/8-12-2021/4QJPon.gif)
+<!-- ![dory](https://i.makeagif.com/media/8-12-2021/4QJPon.gif) -->
 
 I’ve already created some sketches depicting underwater life. Visually, both subjects are fish, so depicting an underwater scene would be appropriate for this sketch. I’ve also adjusted the wave steps to make the wave look attractive. Tested multiple times to try the height of the wave, wave speed, and spacing to keep the wave crests.
 
